@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Homework213</string>
+    <string name="layout_name">Сроки задачи</string>
+    <string name="btn_start">Cтарт задачи</string>
+    <string name="btn_end">Конец задачи</string>
+    <string name="btn_ok">Применить</string>
+    <string name="toast_error">Неверно задан промежуток дат</string>
+</resources>
